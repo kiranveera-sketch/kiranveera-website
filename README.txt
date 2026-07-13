@@ -24,7 +24,7 @@ The exact original headshot and exported logo image from your prior ChatGPT uplo
 Then update the two image paths in index.html.
 
 FORM
-The contact form currently opens the visitor's email application and sends to hello@kiranveera.com. For a professional online submission flow, create a Formspree form and replace the form action.
+The contact form currently opens the visitor's email application and sends to hello@kiranveera.com. For a professional online submission flow, create a Formspree form and replace the form action. The Formspree end point is https://formspree.io/f/meeyqrjl
 
 PREVIEW
 Double-click index.html.

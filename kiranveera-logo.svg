@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-labelledby="title desc">
+<title id="title">KiranVeera logo</title><desc id="desc">Navy and gold KV real estate logo</desc>
+<circle cx="250" cy="250" r="238" fill="#fff" stroke="#0D1B3D" stroke-width="16"/>
+<circle cx="250" cy="250" r="218" fill="none" stroke="#D4A017" stroke-width="6"/>
+<path d="M110 245 L250 125 L390 245" fill="none" stroke="#0D1B3D" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M165 240 V330 H335 V240" fill="#F5F5F5" stroke="#0D1B3D" stroke-width="12"/>
+<rect x="225" y="255" width="50" height="75" rx="4" fill="#D4A017"/>
+<text x="250" y="220" text-anchor="middle" font-family="Georgia,serif" font-size="112" font-weight="700"><tspan fill="#0D1B3D">K</tspan><tspan fill="#D4A017">V</tspan></text>
+<text x="250" y="385" text-anchor="middle" font-family="Georgia,serif" font-size="40" letter-spacing="4"><tspan fill="#0D1B3D">KIRAN</tspan><tspan fill="#D4A017">VEERA</tspan></text>
+<text x="250" y="420" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#0D1B3D">BUILDING WEALTH THROUGH REAL ESTATE</text>
+</svg>

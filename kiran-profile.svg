@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" role="img" aria-labelledby="title desc">
+<title id="title">Kiranmai Veeramachaneni portrait placeholder</title><desc id="desc">Branded portrait frame awaiting the original headshot file</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F5F5F5"/><stop offset="1" stop-color="#D8C7A2"/></linearGradient></defs>
+<rect width="800" height="960" fill="url(#bg)"/>
+<circle cx="400" cy="340" r="170" fill="#0D1B3D" opacity=".12"/>
+<circle cx="400" cy="315" r="115" fill="#0D1B3D"/>
+<path d="M180 820c25-210 120-320 220-320s195 110 220 320" fill="#0D1B3D"/>
+<circle cx="400" cy="340" r="185" fill="none" stroke="#D4A017" stroke-width="14"/>
+<text x="400" y="875" text-anchor="middle" font-family="Georgia,serif" font-size="46" fill="#0D1B3D">Kiranmai Veeramachaneni</text>
+<text x="400" y="918" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="2" fill="#D4A017">REALTOR • LOAN OFFICER • BUILDER</text>
+</svg>
